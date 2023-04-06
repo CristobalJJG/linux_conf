@@ -1,0 +1,22 @@
+[Added Associations]
+inode/directory=code_code.desktop;vlc.desktop;
+x-scheme-handler/sms=org.gnome.Shell.Extensions.GSConnect.desktop;
+x-scheme-handler/tel=org.gnome.Shell.Extensions.GSConnect.desktop;
+video/x-msvideo=vlc.desktop;
+application/x-ipynb+json=code_code.desktop;
+text/markdown=code_code.desktop;
+application/vnd.debian.binary-package=gnome-software-local-file.desktop;snap-store_ubuntu-software-local-file.desktop;
+x-scheme-handler/http=brave_brave.desktop;firefox_firefox.desktop;crd-url-forwarder.desktop;
+application/x-msi=org.gnome.Shell.Extensions.GSConnect.desktop;
+text/html=brave_brave.desktop;
+application/x-perl=projectlibre.desktop;
+text/x-python=code_code.desktop;
+
+[Default Applications]
+text/html=vivaldi-stable.desktop
+x-scheme-handler/mailto=opera.desktop
+x-scheme-handler/figma=figma-linux_figma-linux.desktop
+x-scheme-handler/http=vivaldi-stable.desktop
+x-scheme-handler/https=vivaldi-stable.desktop
+x-scheme-handler/about=vivaldi-stable.desktop
+x-scheme-handler/unknown=vivaldi-stable.desktop
